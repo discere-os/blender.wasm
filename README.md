@@ -1,3 +1,13 @@
+# @discere-os/blender.wasm
+
+WebAssembly port of Blender - The free and open source 3D creation suite supporting the entire 3D pipeline.
+
+[![CI/CD](https://github.com/discere-os/discere-nucleus/actions/workflows/blender-wasm-ci.yml/badge.svg)](https://github.com/discere-os/discere-nucleus/actions)
+[![JSR](https://jsr.io/badges/@discere-os/blender.wasm)](https://jsr.io/@discere-os/blender.wasm)
+[![npm version](https://badge.fury.io/js/@discere-os%2Fblender.wasm.svg)](https://badge.fury.io/js/@discere-os%2Fblender.wasm)
+[![License](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](https://www.blender.org/about/license)
+[![Status](https://img.shields.io/badge/status-alpha-orange.svg)](https://github.com/discere-os/discere-nucleus)
+
 <!--
 Keep this document short & concise,
 linking to external resources instead of including content in-line.
